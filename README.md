@@ -1,16 +1,24 @@
-### Hi there 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋+I'm+Mike+Dev+💻;I+am+a+Full+Stack+Web+Developer+⚡)](https://git.io/typing-svg)
 
-<!--
-**Michael-0208/Michael-0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://komarev.com/ghpvc/?username=Michael-0208&color=blue&label=Profile%20Views)](https://github.com/Michael-0208/Michael-0208)
+[![](https://img.shields.io/github/followers/Michael-0208?label=GitHub%20Followers)](https://github.com/Michael-0208)
 
-Here are some ideas to get you started:
+## Skills 🎯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=php,js,laravel,wordpress,vue,jquery,html,css,bootstrap,materialui,tailwind,mysql,git,nginx,linux,aws&perline=11)](https://github.com/Michael-0208)
+
+## Let's Connect 🔗 
+
+<a href="https://twitter.com/Michael37437801" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt=" Mike Twitter"></a>
+<a href="https://www.linkedin.com/in/vikash-dangi-ba9387137/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Mike LinkedIn"></a>
+
+
+<br>
+
+## Github Stats 📈
+
+![Mike's Github Stats](https://github-readme-stats.vercel.app/api?username=Michael-0208&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=stars)
+
+## Github Streak ⚡
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-0208&theme=tokyonight" alt="mystreak"/>
