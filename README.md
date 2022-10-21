@@ -5,7 +5,7 @@
 
 ## Skills 🎯
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,laravel,wordpress,vue,jquery,html,css,bootstrap,tailwind,mysql,git,nginx,linux,aws&perline=15)](https://github.com/Michael-0208)
+[![My Skills](https://skillicons.dev/icons?i=php,js,laravel,wordpress,vue,jquery,html,css,bootstrap,tailwind,mysql,git,nginx,linux,aws&perline=5)](https://github.com/Michael-0208)
 
 ## Let's Connect 🔗 
 
