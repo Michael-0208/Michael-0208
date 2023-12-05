@@ -14,11 +14,6 @@
 
 
 <br>
-
-## Github Stats 📈
-
-![Mike's Github Stats](https://github-readme-stats.vercel.app/api?username=Michael-0208&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=stars)
-
 ## Github Streak ⚡
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-0208&theme=tokyonight" alt="mystreak"/>
