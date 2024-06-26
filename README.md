@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋+I'm+Vikash+💻;I+am+a+Full+Stack+Web+Developer+⚡)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋+I'm+Vikash+💻;I+am+a+Backend+Developer+⚡)](https://git.io/typing-svg)
 
 [![](https://komarev.com/ghpvc/?username=Michael-0208&color=blue&label=Profile%20Views)](https://github.com/Michael-0208/Michael-0208)
 [![](https://img.shields.io/github/followers/Michael-0208?label=GitHub%20Followers)](https://github.com/Michael-0208)
